@@ -6,7 +6,6 @@ layout: home
 title: "GG Seminar 2025"
 
 --- -->
-layout: home
 
 # GG Seminar 2025
 
