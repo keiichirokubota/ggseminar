@@ -1,11 +1,12 @@
----
+<!-- ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 title: "GG Seminar 2025"
 
----
+--- -->
+layout: home
 
 # GG Seminar 2025
 
@@ -54,5 +55,3 @@ title: "GG Seminar 2025"
 ## 2025-03-28
 - (K.Kyutoku) [2501.19257](https://arxiv.org/abs/2501.19257), Andrea Cipriani et al., Resumming Post-Minkowskian and Post-Newtonian gravitational waveform expansions
 
-
----
