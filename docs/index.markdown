@@ -9,8 +9,23 @@ title: "GG Seminar 2025"
 
 # GG Seminar 2025
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+> And supports multi-line text.
+
 > [!TIP]
-> これは重要なヒントです。
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+  > [!WARNING]  
+  > Critical content demanding immediate
+  > user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+> Opportunity to provide more context.
 
 > [!TIP]
 > - The meeting will be held on every Friday from 10:30 to 12:00.
@@ -30,7 +45,6 @@ title: "GG Seminar 2025"
 > - “[benty-fields](https://www.benty-fields.com/)”というwebアプリケーションを利用しています．もしbenty-fieldsのアカウントを持っていれば，以下のようにして参加申請を送れます: Journal Club -> Join Journal Club -> “GG seminar”を探す -> “Join”ボタンを押す もしアカウントを持っていない場合は，benty-fieldsに登録してください．
 > - 英語話者が参加している場合は, 英語で行います. 英語で喋った後に日本語で内容をまとめ直しています. わからなくなれば、日本語で質問してもらってもよいです.
 
----
 ## Links
  - [GraceDB — Gravitational Wave Candidate Event Database](https://gracedb.ligo.org/latest/)
  - [GW Observatory Status](https://www.gw-openscience.org/detector_status/)
