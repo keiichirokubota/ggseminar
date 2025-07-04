@@ -6,6 +6,11 @@ layout: home
 title: "GG Seminar 2025"
 
 ---
+```ad-tip
+これは**役立つヒント**です。
+
+複数行にわたる内容も書けます。
+```
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
