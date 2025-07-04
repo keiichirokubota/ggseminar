@@ -28,7 +28,8 @@ baseurl: "/ggseminar" # the subpath of your site, e.g. /blog
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+# jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
