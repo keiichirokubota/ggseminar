@@ -10,6 +10,9 @@ title: "GG Seminar 2025"
 # GG Seminar 2025
 
 > [!TIP]
+> これは重要なヒントです。
+
+> [!TIP]
 > - The meeting will be held on every Friday from 10:30 to 12:00.
 > - We use Zoom.
 > - Mainly, we review preprints about gravitational waves, gravity theories, and related topics.
