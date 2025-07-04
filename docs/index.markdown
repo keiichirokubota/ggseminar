@@ -9,15 +9,21 @@ title: "GG Seminar 2025"
 
 # GG Seminar 2025
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-> And supports multi-line text.
+<div class="admonition note">
+<div class="admonition-title">Note</div>
+<p>Highlights information that users should take into account, even when skimming.
+And supports multi-line text.</p>
+</div>
 
-> [!TIP]
-> Optional information to help a user be more successful.
+<div class="admonition tip">
+<div class="admonition-title">Tip</div>
+<p>Optional information to help a user be more successful.</p>
+</div>
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+<div class="admonition important">
+<div class="admonition-title">Important</div>
+<p>Crucial information necessary for users to succeed.</p>
+</div>
 
   > [!WARNING]  
   > Critical content demanding immediate

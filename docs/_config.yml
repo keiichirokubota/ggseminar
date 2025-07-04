@@ -30,15 +30,15 @@ baseurl: "/ggseminar" # the subpath of your site, e.g. /blog
 # Build settings
 # theme: jekyll-theme-minimal
 # GitHub Pages uses minima by default
-# plugins:
-#   - jekyll-feed
-#   - jekyll-spaceship
-#   - jekyll-gfm-admonitions
-
-markdown: GFM 
 plugins:
-- jekyll-gfm-admonitions
-- jekyll-optional-front-matter
+  - jekyll-feed
+  - jekyll-gfm-admonitions
+  - jekyll-optional-front-matter
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 exclude: 
   - "**/*.ts" # Exclude source code files!
