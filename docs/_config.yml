@@ -32,6 +32,8 @@ baseurl: "/ggseminar" # the subpath of your site, e.g. /blog
 # GitHub Pages uses minima by default
 plugins:
   - jekyll-feed
+  - jekyll-gfm-admonitions
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
