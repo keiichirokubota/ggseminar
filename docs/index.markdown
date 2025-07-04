@@ -7,6 +7,24 @@ title: "GG Seminar 2025"
 
 ---
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+> And supports multi-line text.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+  > [!WARNING]  
+  > Critical content demanding immediate
+  > user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+> Opportunity to provide more context.
+
 # GG Seminar 2025
 
 - The meeting will be held on every Friday from 10:30 to 12:00.
