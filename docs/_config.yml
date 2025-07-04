@@ -33,10 +33,6 @@ baseurl: "/ggseminar" # the subpath of your site, e.g. /blog
 plugins:
   - jekyll-feed
 
-kramdown:
-input: GFM
-hard_wrap: false # 必要に応じて
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
