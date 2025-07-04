@@ -1,3 +1,3 @@
 # ggseminar
 
-This repository is for the GGseminar site.
+This repository is for page of GGseminar.
