@@ -6,29 +6,15 @@ layout: home
 title: "GG Seminar 2025"
 
 ---
-```ad-tip
-これは**役立つヒント**です。
-
-複数行にわたる内容も書けます。
-```
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-> And supports multi-line text.
+> これはノートです。
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> これはヒントです。
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-  > [!WARNING]  
-  > Critical content demanding immediate
-  > user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-> Opportunity to provide more context.
+> [!WARNING]
+> これは警告です。
 
 
 # GG Seminar 2025
