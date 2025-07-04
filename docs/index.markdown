@@ -9,48 +9,25 @@ title: "GG Seminar 2025"
 
 # GG Seminar 2025
 
-<div class="admonition note">
-<div class="admonition-title">Note</div>
-<p>Highlights information that users should take into account, even when skimming.
-And supports multi-line text.</p>
-</div>
+- The meeting will be held on every Friday from 10:30 to 12:00.
+- We use Zoom.
+- Mainly, we review preprints about gravitational waves, gravity theories, and related topics.
+- It is welcomed to discuss your own research.
+- We have a mailing list for announcements.
+- We try to use the web application “[benty-fields](https://www.benty-fields.com/)”. If you have an account of benty-fields, you can find our journal club as follows: Journal Club -> Join Journal Club -> Find “GG seminar” -> Press “Join” button. If you don’t have an account, please sign-up to the benty-fields.
+- We would like to mainly use English and restate in Japanese what we have discussed. If you don’t know how to say in English, you can ask questions in Japanese.
 
-<div class="admonition tip">
-<div class="admonition-title">Tip</div>
-<p>Optional information to help a user be more successful.</p>
-</div>
+---
 
-<div class="admonition important">
-<div class="admonition-title">Important</div>
-<p>Crucial information necessary for users to succeed.</p>
-</div>
+- 通常, 毎週金曜日 10:30-12:00 に行います.
+- 会議はZoomで行っています.
+- 広く重力波に関連した最近のarXiv・話題を議論・情報共有します.
+- また, 気になっている論文や皆様の研究で相談したいことがありましたら, 歓迎いたします.
+- 連絡はメーリングリストで行います.
+- “[benty-fields](https://www.benty-fields.com/)”というwebアプリケーションを利用しています．もしbenty-fieldsのアカウントを持っていれば，以下のようにして参加申請を送れます: Journal Club -> Join Journal Club -> “GG seminar”を探す -> “Join”ボタンを押す もしアカウントを持っていない場合は，benty-fieldsに登録してください．
+- 英語話者が参加している場合は, 英語で行います. 英語で喋った後に日本語で内容をまとめ直しています. わからなくなれば、日本語で質問してもらってもよいです.
 
-  > [!WARNING]  
-  > Critical content demanding immediate
-  > user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-> Opportunity to provide more context.
-
-> [!TIP]
-> - The meeting will be held on every Friday from 10:30 to 12:00.
-> - We use Zoom.
-> - Mainly, we review preprints about gravitational waves, gravity theories, and related topics.
-> - It is welcomed to discuss your own research.
-> - We have a mailing list for announcements.
-> - We try to use the web application “[benty-fields](https://www.benty-fields.com/)”. If you have an account of benty-fields, you can find our journal club as follows: Journal Club -> Join Journal Club -> Find “GG seminar” -> Press “Join” button. If you don’t have an account, please sign-up to the benty-fields.
-> - We would like to mainly use English and restate in Japanese what we have discussed. If you don’t know how to say in English, you can ask questions in Japanese.
-
-
-> - 通常, 毎週金曜日 10:30-12:00 に行います.
-> - 会議はZoomで行っています.
-> - 広く重力波に関連した最近のarXiv・話題を議論・情報共有します.
-> - また, 気になっている論文や皆様の研究で相談したいことがありましたら, 歓迎いたします.
-> - 連絡はメーリングリストで行います.
-> - “[benty-fields](https://www.benty-fields.com/)”というwebアプリケーションを利用しています．もしbenty-fieldsのアカウントを持っていれば，以下のようにして参加申請を送れます: Journal Club -> Join Journal Club -> “GG seminar”を探す -> “Join”ボタンを押す もしアカウントを持っていない場合は，benty-fieldsに登録してください．
-> - 英語話者が参加している場合は, 英語で行います. 英語で喋った後に日本語で内容をまとめ直しています. わからなくなれば、日本語で質問してもらってもよいです.
-
+---
 ## Links
  - [GraceDB — Gravitational Wave Candidate Event Database](https://gracedb.ligo.org/latest/)
  - [GW Observatory Status](https://www.gw-openscience.org/detector_status/)
