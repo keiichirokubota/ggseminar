@@ -34,3 +34,10 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "github-pages", "~> 231", group: :jekyll_plugins
 gem "jekyll-gfm-admonitions"
+ 
+gem 'jekyll'
+group :jekyll_plugins do
+  gem 'jekyll-gfm-admonitions'
+  gem 'jekyll-optional-front-matter'
+end
+gem 'jekyll-remote-theme'

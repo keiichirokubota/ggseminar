@@ -30,9 +30,9 @@ baseurl: "/ggseminar" # the subpath of your site, e.g. /blog
 # Build settings
 # theme: jekyll-theme-minimal
 # GitHub Pages uses minima by default
-plugins:
-  - jekyll-feed
-  - jekyll-gfm-admonitions
+# plugins:
+#   - jekyll-feed
+#   - jekyll-gfm-admonitions
 
 
 # Exclude from processing.
@@ -54,3 +54,27 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+markdown: GFM 
+plugins:
+- jekyll-gfm-admonitions
+- jekyll-optional-front-matter
+
+exclude: 
+  - "**/*.ts" # Exclude source code files!
+  - "**/*.js"
+  - "*.ts" # Also those in the root directory!
+  - "*.js"
+  - "*.json" # Don't forget about assets!
+  - node_modules/ # And large vendored directories
+  # And these ignore all the artifacts the build produces:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
