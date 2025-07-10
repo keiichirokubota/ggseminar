@@ -1,69 +1,34 @@
 import re
-import requests
+import arxiv
 
-def get_arxiv_info(arxiv_id):
-    """
-    arXiv IDに基づいて論文のタイトルと著者を取得します。
-    """
-    base_url = "http://export.arxiv.org/api/query?"
-    query = f"id_list={arxiv_id}"
-    response = requests.get(base_url + query)
-    
-    if response.status_code == 200:
-        # XMLレスポンスからタイトルと著者を抽出
-        title_match = re.search(r"<title>(.*?)</title>", response.text)
-        author_match = re.findall(r"<name>(.*?)</name>", response.text)
-        
-        title = title_match.group(1).strip().replace('\n', ' ') if title_match else "タイトル不明"
-        authors = ", ".join(author_match) if author_match else "著者不明"
-        return title, authors
-    else:
-        print(f"arXiv ID {arxiv_id} の情報取得に失敗しました。ステータスコード: {response.status_code}")
-        return "タイトル不明", "著者不明"
+# index.markdown を読み込む
+with open('docs/index.markdown', 'r', encoding='utf-8') as f:
+    content = f.read()
 
-def update_arxiv_links(filename="index.markdown"):
-    """
-    index.markdownファイル内のarXivリンクを論文情報で更新します。
-    """
-    try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            content = f.read()
+# \arxiv{****} をすべて探す
+pattern = r'\\arxiv\{([\d\.]+)\}'
+arxiv_ids = re.findall(pattern, content)
 
-        # \arxiv{****}のパターンを検索してカウント
-        arxiv_pattern = r"\\arxiv\{([^}]+)\}"
-        matches = re.findall(arxiv_pattern, content)
-        
-        if not matches:
-            print("\\arxiv{****} のパターンが見つかりませんでした。")
-            return
-        
-        print(f"{len(matches)}個のarXiv IDが見つかりました: {matches}")
-        
-        # 各マッチについて置換を実行
-        for arxiv_id in matches:
-            print(f"arXiv ID: {arxiv_id} の情報を取得中...")
-            title, authors = get_arxiv_info(arxiv_id)
-            
-            # 置換文字列を作成（Markdownリンク形式）
-            replacement = f"[{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) - {authors} - {title}"
-            
-            # 元のパターンを置換
-            old_pattern = f"\\arxiv{{{arxiv_id}}}"
-            content = content.replace(old_pattern, replacement)
-            
-            print(f"置換完了: {old_pattern} -> {replacement[:100]}...")
-        
-        # ファイルに書き戻し
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"{filename} が正常に更新されました。")
+for arxiv_id in set(arxiv_ids):  # 重複は一回だけ処理
+    # arxivパッケージで検索
+    search = arxiv.Search(id_list=[arxiv_id])
+    result = next(search.results(), None)
+    if result is None:
+        print(f'Not found: {arxiv_id}')
+        continue
 
-    except FileNotFoundError:
-        print(f"エラー: ファイル '{filename}' が見つかりません。")
-    except Exception as e:
-        print(f"予期せぬエラーが発生しました: {e}")
+    # 著者名とタイトル
+    authors = ', '.join(author.name for author in result.authors)
+    title = result.title.replace('\n', ' ').strip()
 
-if __name__ == "__main__":
-    # 使用例
-    print("arXiv情報取得・更新スクリプトを開始します...")
-    update_arxiv_links()
+    # 置換後の文字列
+    replacement = f'[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})  \n{authors}  \n_"{title}"_'
+
+    # 元のテキストを置換
+    content = re.sub(rf'\\arxiv\{{{re.escape(arxiv_id)}\}}', replacement, content)
+
+# 上書き保存
+with open('docs/index.markdown', 'w', encoding='utf-8') as f:
+    f.write(content)
+
+print('置換完了！')
