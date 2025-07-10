@@ -35,5 +35,5 @@ title: "GG Seminar 2025"
 / [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) / [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html) /  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) / [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
 ## 2025-07-11
-<!-- - (K.Kyutoku) [2501.19257](https://arxiv.org/abs/2501.19257), Andrea Cipriani et al., Resumming Post-Minkowskian and Post-Newtonian gravitational waveform expansions --!>
+<!-- - (K.Kyutoku) [2501.19257](https://arxiv.org/abs/2501.19257), Andrea Cipriani et al., Resumming Post-Minkowskian and Post-Newtonian gravitational waveform expansions -->
 
