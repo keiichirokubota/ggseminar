@@ -37,5 +37,5 @@ title: "GG Seminar 2025"
 <!-- - (K.Kyutoku) [2501.19257](https://arxiv.org/abs/2501.19257), Andrea Cipriani et al., Resumming Post-Minkowskian and Post-Newtonian gravitational waveform expansions -->
 
 ## 2025-07-04
-- (T.Tanaka) [2506.13850](https://arxiv.org/abs/2506.13850), Jaime Redondo-Yuste, Vitor Cardoso, Superradiant amplification by rotating viscous compact objects
-- (T.S.Yamamoto) [2506.14179](https://arxiv.org/abs/2506.14179), Xiao-Xiao Kou et al., Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge
+- (T.Tanaka) [2506.13850](https://arxiv.org/abs/2506.13850), Jaime Redondo-Yuste, Vitor Cardoso, _Superradiant amplification by rotating viscous compact objects_
+- (T.S.Yamamoto) [2506.14179](https://arxiv.org/abs/2506.14179), Xiao-Xiao Kou et al., _Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge_
