@@ -36,22 +36,22 @@ title: "GG Seminar 2025"
 ## 2025-07-11
 - (T.Kakehi) [arXiv:2506.20726](https://arxiv.org/abs/2506.20726)  
 Viktor Skoupý, Gabriel Andres Piovano, Vojtěch Witzany  
-_"Spherical inspirals of spinning bodies into Kerr black holes"_
+_Spherical inspirals of spinning bodies into Kerr black holes_
 - (T.S.Yamamoto) [arXiv:2506.12237](https://arxiv.org/abs/2506.12237)  
 Regimbau Tania, Suresh Jishnu  
-_"A mock data challenge for next-generation detectors"_
+_A mock data challenge for next-generation detectors_
 - (K.Kyutoku) [arXiv:2506.18977](https://arxiv.org/abs/2506.18977)  
 Michael J. Williams, Minas Karamanis, Yilin Luo, Uroš Seljak  
-_"Validating Sequential Monte Carlo for Gravitational-Wave Inference"_
+_Validating Sequential Monte Carlo for Gravitational-Wave Inference_
 - (F.Chuman) [arXiv:2506.10469](https://arxiv.org/abs/2506.10469)  
 Fumihiro Chuman, Masamune Oguri  
-_"Constraining the lensing dispersion from the angular clustering of binary black hole mergers"_
+_Constraining the lensing dispersion from the angular clustering of binary black hole mergers_
 
 
 ## 2025-07-04
 - (T.Tanaka) [arXiv:2506.13850](https://arxiv.org/abs/2506.13850)  
 Jaime Redondo-Yuste, Vitor Cardoso  
-_"Superradiant amplification by rotating viscous compact objects"_
+_Superradiant amplification by rotating viscous compact objects_
 - (T.S.Yamamoto) [arXiv:2506.14179](https://arxiv.org/abs/2506.14179)  
 Xiao-Xiao Kou, Muhammed Saleem, Vuk Mandic, Colm Talbot, Eric Thrane  
-_"Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge"_
+_Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge_

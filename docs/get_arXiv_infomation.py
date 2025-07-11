@@ -22,7 +22,7 @@ for arxiv_id in set(arxiv_ids):  # 重複は一回だけ処理
     title = result.title.replace('\n', ' ').strip()
 
     # 置換後の文字列
-    replacement = f'[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})  \n{authors}  \n_"{title}"_'
+    replacement = f'[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})  \n{authors}  \n_{title}_'
 
     # 元のテキストを置換
     content = re.sub(rf'\\arxiv\{{{re.escape(arxiv_id)}\}}', replacement, content)
