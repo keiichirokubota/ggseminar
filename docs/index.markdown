@@ -34,7 +34,16 @@ title: "GG Seminar 2025"
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
 ## 2025-07-11
-<!-- - (K.Kyutoku) [2501.19257](https://arxiv.org/abs/2501.19257), Andrea Cipriani et al., Resumming Post-Minkowskian and Post-Newtonian gravitational waveform expansions -->
+- (T.Kakehi) [arXiv:2506.20726](https://arxiv.org/abs/2506.20726)  
+Viktor Skoupý, Gabriel Andres Piovano, Vojtěch Witzany  
+_"Spherical inspirals of spinning bodies into Kerr black holes"_
+- (T.S.Yamamoto) [arXiv:2506.12237](https://arxiv.org/abs/2506.12237)  
+Regimbau Tania, Suresh Jishnu  
+_"A mock data challenge for next-generation detectors"_
+- (K.Kyutoku) [arXiv:2506.18977](https://arxiv.org/abs/2506.18977)  
+Michael J. Williams, Minas Karamanis, Yilin Luo, Uroš Seljak  
+_"Validating Sequential Monte Carlo for Gravitational-Wave Inference"_
+
 
 ## 2025-07-04
 - (T.Tanaka) [arXiv:2506.13850](https://arxiv.org/abs/2506.13850)  
