@@ -25,7 +25,7 @@ title: "GG Seminar 2025"
 > - 英語話者が参加している場合は, 英語で行います. 英語で喋った後に日本語で内容をまとめ直しています. わからなくなれば、日本語で質問してもらってもよいです.
 
 ## Links
- - [GraceDB — Gravitational Wave Candidate Event Database](https://gracedb.ligo.org/superevents/public/O4c/)
+ - [GraceDB — Gravitational Wave Candidate Event Database](https://gracedb.ligo.org/latest/)
  - [GW Observatory Status](https://www.gw-openscience.org/detector_status/)
  - [Link to Logbook](https://monitor.ligo.org/gwstatus)
  - [KAGRA Logbook](http://klog.icrr.u-tokyo.ac.jp/osl/?c=1)
