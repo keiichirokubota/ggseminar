@@ -43,6 +43,9 @@ _"A mock data challenge for next-generation detectors"_
 - (K.Kyutoku) [arXiv:2506.18977](https://arxiv.org/abs/2506.18977)  
 Michael J. Williams, Minas Karamanis, Yilin Luo, Uroš Seljak  
 _"Validating Sequential Monte Carlo for Gravitational-Wave Inference"_
+- (F.Chuman) [arXiv:2506.10469](https://arxiv.org/abs/2506.10469)  
+Fumihiro Chuman, Masamune Oguri  
+_"Constraining the lensing dispersion from the angular clustering of binary black hole mergers"_
 
 
 ## 2025-07-04
