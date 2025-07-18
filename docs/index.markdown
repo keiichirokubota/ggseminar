@@ -42,7 +42,7 @@ Adrian Ka-Wai Chung, Kelvin Ka-Ho Lam, Nicolas Yunes
 _Quasinormal mode frequencies and gravitational perturbations of spinning black holes in modified gravity through METRICS: The dynamical Chern-Simons gravity case_
 - (N.Uchikata) [arXiv:2507.08219](https://arxiv.org/abs/2507.08219)  
 The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
-_GW231123: a Binary Black Hole Merger with Total Mass 190-265 $M_{\odot}2$_
+_GW231123: a Binary Black Hole Merger with Total Mass 190-265 $$M_{\odot}$$_
 
 ## 2025-07-11
 - (T.Kakehi) [arXiv:2506.20726](https://arxiv.org/abs/2506.20726)  
