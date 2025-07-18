@@ -33,6 +33,8 @@ baseurl: "/ggseminar" # the subpath of your site, e.g. /blog
 plugins:
   - jekyll-feed
 
+kramdown:
+  math_engine: mathjax
 
 # Exclude from processing.
 # The following items will not be processed, by default.
