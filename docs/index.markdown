@@ -34,6 +34,17 @@ title: "GG Seminar 2025"
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
 ## 2025-07-11
+- (T.Takahashi) [arXiv:2503.23419](https://arxiv.org/abs/2503.23419)  
+Riccardo Della Monica, Richard Brito  
+_Detectability of gravitational atoms in black hole binaries with the Einstein Telescope_
+- (K.Kubota) [arXiv:2503.11759](https://arxiv.org/abs/2503.11759)  
+Adrian Ka-Wai Chung, Kelvin Ka-Ho Lam, Nicolas Yunes  
+_Quasinormal mode frequencies and gravitational perturbations of spinning black holes in modified gravity through METRICS: The dynamical Chern-Simons gravity case_
+- (N.Uchikata) [arXiv:2507.08219](https://arxiv.org/abs/2507.08219)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_GW231123: a Binary Black Hole Merger with Total Mass 190-265 $M_{\odot}$_
+
+## 2025-07-11
 - (T.Kakehi) [arXiv:2506.20726](https://arxiv.org/abs/2506.20726)  
 Viktor Skoupý, Gabriel Andres Piovano, Vojtěch Witzany  
 _Spherical inspirals of spinning bodies into Kerr black holes_

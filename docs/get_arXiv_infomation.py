@@ -8,6 +8,7 @@ with open('docs/index.markdown', 'r', encoding='utf-8') as f:
 # \arxiv{****} をすべて探す
 pattern = r'\\arxiv\{([\d\.]+)\}'
 arxiv_ids = re.findall(pattern, content)
+print(f'Found {len(arxiv_ids)} arXiv IDs.')
 
 for arxiv_id in set(arxiv_ids):  # 重複は一回だけ処理
     # arxivパッケージで検索
@@ -23,10 +24,12 @@ for arxiv_id in set(arxiv_ids):  # 重複は一回だけ処理
 
     # 置換後の文字列
     replacement = f'[arXiv:{arxiv_id}](https://arxiv.org/abs/{arxiv_id})  \n{authors}  \n_{title}_'
+    print(f'Replacing {arxiv_id} with: {replacement}')
 
     # 元のテキストを置換
-    content = re.sub(rf'\\arxiv\{{{re.escape(arxiv_id)}\}}', replacement, content)
-
+    # use a function as repl to avoid backreference/backslash escapes in replacement
+    content = re.sub(rf'\\arxiv\{{{re.escape(arxiv_id)}\}}', lambda _: replacement, content)
+# 
 # 上書き保存
 with open('docs/index.markdown', 'w', encoding='utf-8') as f:
     f.write(content)
