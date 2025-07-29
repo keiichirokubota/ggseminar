@@ -12,8 +12,10 @@ print(f'Found {len(arxiv_ids)} arXiv IDs.')
 
 for arxiv_id in set(arxiv_ids):  # 重複は一回だけ処理
     # arxivパッケージで検索
+    client = arxiv.Client()
+
     search = arxiv.Search(id_list=[arxiv_id])
-    result = next(search.results(), None)
+    result = next(client.results(search), None)
     if result is None:
         print(f'Not found: {arxiv_id}')
         continue
