@@ -34,6 +34,20 @@ title: "GG Seminar 2025"
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
 ## 2025-07-25
+- (discussion) [arXiv:2507.12227](https://arxiv.org/abs/2507.12227)  
+Ezequiel Alvarez, Scott Perkins, Federico Ravanedo, Nicolas Yunes  
+_Dark Matter Clumps as Sources of Gravitational-Wave Glitches in LIGO/Virgo/KAGRA data_
+- (discussion) [arXiv:2411.17893](https://arxiv.org/abs/2411.17893)  
+Simon Maenaut, Gregorio Carullo, Pablo A. Cano, Anna Liu, Vitor Cardoso, Thomas Hertog, Tjonnie G. F. Li  
+_Ringdown Analysis of Rotating Black Holes in Effective Field Theory Extensions of General Relativity_
+- (discussion) [arXiv:0809.2814](https://arxiv.org/abs/0809.2814)  
+Yasushi Mino, Jeandrew Brink  
+_Gravitational Radiation from Plunging Orbits - Perturbative Study -_
+- (discussion) [arXiv:2506.21668](https://arxiv.org/abs/2506.21668)  
+Marina De Amicis, Enrico Cannizzaro, Gregorio Carullo, Laura Sberna  
+_Dynamical quasinormal mode excitation_
+
+## 2025-07-25
 - (Y.Manita) [arXiv:2506.21668](https://arxiv.org/abs/2506.21668)  
 Marina De Amicis, Enrico Cannizzaro, Gregorio Carullo, Laura Sberna  
 _Dynamical quasinormal mode excitation_
