@@ -33,7 +33,18 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-08-08
+## Next: 2025-08-22
+
+## 2025-08-08
+- (discussion) [arXiv:2505.16795](https://arxiv.org/abs/2505.16795)  
+Philippa S. Cole, James Alvey, Lorenzo Speri, Christoph Weniger, Uddipta Bhardwaj, Davide Gerosa, Gianfranco Bertone  
+_Sequential simulation-based inference for extreme mass ratio inspirals_
+- (discussion) [arXiv:2506.21668](https://arxiv.org/abs/2506.21668)  
+Marina De Amicis, Enrico Cannizzaro, Gregorio Carullo, Laura Sberna  
+_Dynamical quasinormal mode excitation_
+- (T.Tanaka) [arXiv:2507.12227](https://arxiv.org/abs/2507.12227)  
+Ezequiel Alvarez, Scott Perkins, Federico Ravanedo, Nicolas Yunes  
+_Dark Matter Clumps as Sources of Gravitational-Wave Glitches in LIGO/Virgo/KAGRA data_
 
 ## 2025-08-01
 - (discussion) [arXiv:2507.12227](https://arxiv.org/abs/2507.12227)  
