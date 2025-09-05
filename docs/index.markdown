@@ -33,7 +33,25 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-09-05
+## Next: 2025-09-12
+
+## 2025-09-05
+- (topic) [ ブラックホール摂動論研究会](https://sites.google.com/view/bhpc2025/home)
+- (discussion) [arXiv:2508.18080](https://arxiv.org/abs/2508.18080)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_GWTC-4.0: An Introduction to Version 4.0 of the Gravitational-Wave Transient Catalog_  
+- (discussion) [arXiv:2508.18081](https://arxiv.org/abs/2508.18081)    
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_GWTC-4.0: Methods for Identifying and Characterizing Gravitational-wave Transients_
+- (discussion) [arXiv:2508.18082](https://arxiv.org/abs/2508.18082)     
+The LIGO Scientific Collaboration, The Virgo Collaboration, the KAGRA Collaboration    
+_GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run_  
+- (discussion) [arXiv:2508.18083](https://arxiv.org/abs/2508.18083)    
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration    
+_GWTC-4.0: Population Properties of Merging Compact Binaries_
+- (discussion) [arXiv:2508.18079](https://arxiv.org/abs/2508.18079)    
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_Open Data from LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing Run_
 
 ## 2025-08-22
 - (Y.Manita) [arXiv:2508.03380](https://arxiv.org/abs/2508.03380)  
