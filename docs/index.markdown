@@ -33,7 +33,21 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-09-12
+## Next: 2025-09-26
+
+## 2025-09-12 
+- (N.Uchikata) [arXiv:2509.07348](https://arxiv.org/abs/2509.07348)  
+The LIGO Scientific Collaboration, The Virgo Collaboration, The Kagra Collaboration, Others  
+_GW230814: investigation of a loud gravitational-wave signal observed with a single detector_
+- (N.Uchikata) [arXiv:2509.08099](https://arxiv.org/abs/2509.08099)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_Black Hole Spectroscopy and Tests of General Relativity with GW250114_
+- (N.Uchikata) [arXiv:2509.08054](https://arxiv.org/abs/2509.08054)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration, A. G. Abac, I. Abouelfettouh, F. Acernese, K. Ackley, C. Adamcewicz
+_GW250114: testing Hawking's area law and the Kerr nature of black holes_
+- (T.Narikawa) [arXiv:2501.10272](https://arxiv.org/abs/2501.10272)  
+Adrian Abac, Anna Puecher, Jonathan Gair, Tim Dietrich  
+_Data-driven approach for extracting tidal information from neutron star binary mergers observed with the Einstein Telescope_
 
 ## 2025-09-05
 - (topic) [ ブラックホール摂動論研究会](https://sites.google.com/view/bhpc2025/home)
