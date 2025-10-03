@@ -37,7 +37,7 @@ title: "GG Seminar 2025"
 
 ## 2025-10-03
 - (T.Tanaka) [arXiv:2509.07352](https://arxiv.org/abs/2509.07352)  
-The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
 _Directed searches for gravitational waves from ultralight vector boson clouds around merger remnant and galactic black holes during the first part of the fourth LIGO-Virgo-KAGRA observing run_
 - (Y.Manita) [arXiv:2508.13294](https://arxiv.org/abs/2508.13294)  
 Sizheng Ma, Luis Lehner, Huan Yang, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel  
