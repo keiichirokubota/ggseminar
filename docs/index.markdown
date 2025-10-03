@@ -33,10 +33,21 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-10-03
+## Next: 2025-10-10
+
+## 2025-10-03
+- (T.Tanaka) [arXiv:2509.07352](https://arxiv.org/abs/2509.07352)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration
+_Directed searches for gravitational waves from ultralight vector boson clouds around merger remnant and galactic black holes during the first part of the fourth LIGO-Virgo-KAGRA observing run_
 - (Y.Manita) [arXiv:2508.13294](https://arxiv.org/abs/2508.13294)  
 Sizheng Ma, Luis Lehner, Huan Yang, Lawrence E. Kidder, Harald P. Pfeiffer, Mark A. Scheel  
 _Emergent Turbulence in Nonlinear Gravity_
+- (K.Kubota) [arXiv:2509.09165](https://arxiv.org/abs/2509.09165)  
+Naritaka Oshita, Sizheng Ma, Yanbei Chen, Huan Yang  
+_Probing Direct Waves in Black Hole Ringdowns_
+- (K.Kubota) [arXiv:2510.01001](https://arxiv.org/abs/2510.01001)  
+Neil Lu, Sizheng Ma, Ornella J. Piccinni, Yanbei Chen, Ling Sun  
+_GW250114 reveals black hole horizon signatures_
 
 ## 2025-09-26
 - (T.Narikawa) [arXiv:2506.17105](https://arxiv.org/abs/2506.17105)  
