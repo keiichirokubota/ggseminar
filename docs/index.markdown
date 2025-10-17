@@ -35,6 +35,12 @@ title: "GG Seminar 2025"
 
 
 ## Next: 2025-10-17
+- (T. Narikawa) [arXiv:2507.15426](https://arxiv.org/abs/2507.15426)  
+Adrian Abac, Felip Ramis Vidal, Marta Colleoni, Anna Puecher, Alejandra Gonzalez, Tim Dietrich  
+_Leveraging NRTidalv3 to develop gravitational waveform models with higher-order modes for binary neutron star systems_
+- (T. Tanaka) [arXiv:2509.13488](https://arxiv.org/abs/2509.13488)  
+Taillte May, William E. East  
+_Nonlinear evolution of the spin-2 black hole superradiant instability_
 
 ## 2025-10-10
 - (K.Kubota) [arXiv:2503.22648](https://arxiv.org/abs/2503.22648)  
