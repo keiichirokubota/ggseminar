@@ -39,7 +39,7 @@ title: "GG Seminar 2025"
 - (S. Yamamoto) [A. G. Abac et al 2025 ApJL 993 L21](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54)  
 The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration   
 _GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-spin Black Hole Coalescences_  
--(Y. Manita) [arXiv:2505.08877](https://arxiv.org/abs/2505.08877)  
+- (Y. Manita) [arXiv:2505.08877](https://arxiv.org/abs/2505.08877)  
 Romeo Felice Rosato, Paolo Pani  
 _On the universality of late-time ringdown tail_
 
