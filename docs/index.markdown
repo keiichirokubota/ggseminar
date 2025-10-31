@@ -33,7 +33,15 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-10-31
+## Next: 2025-11-07
+
+## 2025-10-31
+- (S. Yamamoto) [A. G. Abac et al 2025 ApJL 993 L21](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration   
+_GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-spin Black Hole Coalescences_
+-(Y. Manita) [arXiv:2505.08877](https://arxiv.org/abs/2505.08877)  
+Romeo Felice Rosato, Paolo Pani  
+_On the universality of late-time ringdown tail_
 
 ## 2025-10-17
 - (T. Narikawa) [arXiv:2507.15426](https://arxiv.org/abs/2507.15426)  
