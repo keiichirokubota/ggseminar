@@ -33,7 +33,15 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-11-07
+## Next: 2025-11-14
+
+## 2025-11-07
+- (H. Imafuku)[arXiv:2509.04348](https://arxiv.org/abs/2509.04348)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_  
+- (D. Watarai)[arXiv:2506.21181](https://arxiv.org/abs/2506.21181)  
+Lodovico Capuano, Massimo Vaglio, Rohit S. Chandramouli, Chantal L Pitte, Adrien Kuntz, Enrico Barausse  
+_Systematic bias in LISA ringdown analysis due to waveform inaccuracy_
 
 ## 2025-10-31
 - (S. Yamamoto) [A. G. Abac et al 2025 ApJL 993 L21](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54)  
