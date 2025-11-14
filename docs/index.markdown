@@ -33,13 +33,27 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-11-14
+## Next: 2025-11-21
+
+##  2025-11-14
+- (discussion) [arXiv:2506.08722](https://arxiv.org/abs/2506.08722)  
+Tristan Pitre, Eric Poisson  
+_Impact of nonlinearities on relativistic dynamical tides in compact binary inspirals_
+- (discussion) [arXiv:2509.19451](https://arxiv.org/abs/2509.19451)  
+Furkan Tuncer, Vitor Cardoso, Rodrigo Panosso Macedo, Thomas F. M. Spieksma  
+_Black holes black out: total absorption in time-dependent scattering_
+- (T. Narikawa) [arXiv:2503.17872](https://arxiv.org/abs/2503.17872)  
+Parthapratim Mahapatra, Debatri Chattopadhyay, Anuradha Gupta, Fabio Antonini, Marc Favata, B. S. Sathyaprakash, K. G. Arun  
+_Possible binary neutron star merger history of the primary of GW230529_
+- (S. Yamamoto) [arXiv:2506.07507](https://arxiv.org/abs/2506.07507)  
+Katsuya T. Abe, Shun Arai, Ryoto Inui, Takahiro S. Yamamoto, Hirotaka Yarimoto, Shuichiro Yokoyama  
+_Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos_
 
 ## 2025-11-07
-- (H. Imafuku)[arXiv:2509.04348](https://arxiv.org/abs/2509.04348)  
+- (H. Imafuku) [arXiv:2509.04348](https://arxiv.org/abs/2509.04348)  
 The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
 _GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation_  
-- (D. Watarai)[arXiv:2506.21181](https://arxiv.org/abs/2506.21181)  
+- (D. Watarai) [arXiv:2506.21181](https://arxiv.org/abs/2506.21181)  
 Lodovico Capuano, Massimo Vaglio, Rohit S. Chandramouli, Chantal L Pitte, Adrien Kuntz, Enrico Barausse  
 _Systematic bias in LISA ringdown analysis due to waveform inaccuracy_
 
