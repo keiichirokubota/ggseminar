@@ -35,6 +35,17 @@ title: "GG Seminar 2025"
 
 ## Next: 2025-11-21
 
+## 2025-11-21
+- (T. Narikawa) [arXiv:2508.00179](https://arxiv.org/abs/2508.00179)  
+Keisi Kacanja, Kanchan Soni, Alexander Harvey Nitz  
+_Eccentricity signatures in LIGO-Virgo-KAGRA's BNS and NSBH binaries_
+- (K. Kubota) [arXiv:2509.06411](https://arxiv.org/abs/2509.06411)  
+Kei-ichiro Kubota, Hayato Motohashi  
+_Resonance in black hole ringdown: Benchmarking quasinormal mode excitation and extraction_
+- (N. Uchikara) [arXiv:2509.05885](https://arxiv.org/abs/2509.05885)  
+Ilya Mandel  
+_What is the most massive gravitational-wave source?_
+
 ##  2025-11-14
 - (discussion) [arXiv:2506.08722](https://arxiv.org/abs/2506.08722)  
 Tristan Pitre, Eric Poisson  
