@@ -33,7 +33,15 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-11-21
+## Next: 2025-12-05
+
+## 2025-11-28
+- (S. Yamamoto) [arXiv:2506.14764](https://arxiv.org/abs/2506.14764)  
+Hugo Einsle, Marie-Anne Bizouard, Tania Regimbau, Mairi Sakellariadou  
+_Gravitational-wave background detection using machine learning_
+- (D. Watarai) [arXiv:2509.08875](https://arxiv.org/abs/2509.08875)  
+Hassan Khalvati, Philip Lynch, Ollie Burke, Lorenzo Speri, Maarten van de Meent, Zachary Nasipak  
+_Systematic errors in fast relativistic waveforms for Extreme Mass Ratio Inspirals_
 
 ## 2025-11-21
 - (T. Narikawa) [arXiv:2508.00179](https://arxiv.org/abs/2508.00179)  
