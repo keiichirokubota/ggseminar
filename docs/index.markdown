@@ -33,7 +33,29 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2025-12-05
+## Next: 2026-01-09
+
+## 2025-12-12
+- (T. Takahashi) [arXiv:2510.17967](https://arxiv.org/abs/2510.17967)  
+Soumen Roy, Rodrigo Vicente, Josu C. Aurrekoetxea, Katy Clough, Pedro G. Ferreira  
+_Scalar fields around black hole binaries in LIGO-Virgo-KAGRA_
+- (K. Kubota) [arXiv:2509.02047](https://arxiv.org/abs/2509.02047)  
+Hai-Tian Wang, Shao-Peng Tang, Peng-Cheng Li, Yi-Zhong Fan  
+_Detection of a Higher Harmonic Quasi-normal Mode in the Ringdown Signal of GW231123_
+- (N. Uchikata) [arXiv:2511.17341](https://arxiv.org/abs/2511.17341)  
+N. V. Krishnendu, Tamara Evstafyeva, Aditya Vijaykumar, William E. East, Rimo Das, Sayantani Datta, Nils Siemonsen, Nami Uchikata, Poulami Dutta Roy, Anuradha Gupta, Ish Gupta, Syed U. Naqvi, Manuel Piarulli, Muhammed Saleem, Elise M. Sänger, Pratyusava Baral, Sajad A. Bhat, Thomas A. Callister, Mattia Emma, Carl-Johan Haster  
+_Implications of GW241011 for rotating exotic compact objects_
+
+## 2025-12-05
+- (T. Narikawa) [arXiv:2508.10698](https://arxiv.org/abs/2508.10698)  
+P. Hammond, A. Clevinger, M. Albino, V. Dexheimer, S. Bernuzzi, C. Brown, W. Cook, B. Daszuta, J. Fields, E. Grundy, C. Providência, D. Radice, A. Steiner  
+_Investigating the Impact of Higher-Order Phase Transitions in Binary Neutron-Star Mergers_
+- (N. Uchikata) [arXiv:2510.22290](https://arxiv.org/abs/2510.22290)  
+Thibeau Wouters, Anna Puecher, Peter T. H. Pang, Tim Dietrich  
+_Analyzing GW231109_235456 and understanding its potential implications for population studies, nuclear physics, and multi-messenger astronomy_
+- (S. Yamamoto) [arXiv:2512.02360](https://arxiv.org/abs/2512.02360)  
+Qian-Qi Ma, Jiachang Zhang, Wei-Min Gu, Zhiyuan Li, Shan-Shan Weng, Tong Bao  
+_The first extragalactic ultra-compact X-ray binary : a candidate black hole-white dwarf system_
 
 ## 2025-11-28
 - (S. Yamamoto) [arXiv:2506.14764](https://arxiv.org/abs/2506.14764)  
