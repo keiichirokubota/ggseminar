@@ -34,6 +34,18 @@ title: "GG Seminar 2025"
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
 ## Next: 2026-01-09
+- (K.Kubota) [arXiv:2512.16347](https://arxiv.org/abs/2512.16347)  
+The LIGO Scientific Collaboration, The Virgo Collaboration, The KAGRA Collaboration  
+_GWTC-4.0: Searches for Gravitational-Wave Lensing Signatures_
+- (K.Kyutoku) [arXiv:2512.08818](https://arxiv.org/abs/2512.08818)  
+A. J. Amsellem, A. Palmese, K. Douglass, C. Howlett, Juliana S. M. Karp, I. Magaña Hernandez, J. Moustakas, R. H. Wechsler, J. Aguilar, S. Ahlen, S. Benzvi, D. Bianchi, D. Brooks, A. Carr, T. Claybaugh, A. Cuceu, Tamara M. Davis, A. de la Macorra, Arjun Dey, Biprateep Dey, P. Doel, A. Font-Ribera, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, G. Gutierrez, K. Honscheid, M. Ishak, R. Joyce, R. Kehoe, T. Kisner, A. Kremin, O. Lahav, A. Lambert, M. Landriau, L. Le Guillou, M. Manera, V. Manwadkar, A. Meisner, R. Miquel, A. D. Myers, S. Nadathur, G. Niz, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, F. Prada, I. Pérez-Ràfols, A. Raichoor, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, J. Silber, D. Sprayberry, G. Tarlé, R. Zhou, the DESI Collaboration  
+_Probing the environment around GW170817 with DESI: insights on galaxy group peculiar velocities for standard siren measurements_
+- (S. Yamamoto) [arXiv:2512.17550](https://arxiv.org/abs/2512.17550)  
+Qian Hu, Harsh Narola, Jef Heynen, Mick Wright, John Veitch, Justin Janquart, Chris Van Den Broeck  
+_GW231123: Overlapping Gravitational Wave Signals?_
+- (S. Yamamoto) [arXiv:2512.19118](https://arxiv.org/abs/2512.19118)  
+Xikai Shan, Huan Yang, Shude Mao  
+_GW231123: A Case for Binary Microlensing in a Strong Lensing Field_
 
 ## 2025-12-12
 - (T. Takahashi) [arXiv:2510.17967](https://arxiv.org/abs/2510.17967)  
