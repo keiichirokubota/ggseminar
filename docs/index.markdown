@@ -33,10 +33,21 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2026-01-16 
+## Next: 2026-01-30
 - (S. Yamamoto) [arXiv:2501.07228](https://arxiv.org/abs/2501.07228)  
 Jyotirmay Maity, Shashank Kumar Ojha, Prithwijit Mandal, Manav Beniwal, Nandana Bhattacharya, Andrei Gloskovskii, Christoph Schlueter, Srimanta Middey  
 _Beyond being free: glassy dynamics of SrTiO$_3$-based two-dimensional electron gas_
+
+## 2026-01-16 
+- (N. Uchikata) [arXiv:2601.05734](https://arxiv.org/abs/2601.05734)  
+Yi-Fan Wang, Sizheng Ma, Neev Khera, Huan Yang  
+_A nonlinear voice from GW250114 ringdown_
+- (K. Kubota) [arXiv:2512.07959](https://arxiv.org/abs/2512.07959)  
+Matteo Della Rocca, Laura Pezzella, Emanuele Berti, Leonardo Gualtieri, Andrea Maselli  
+_Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit_
+- (K. Kubota) [arXiv:2512.15877](https://arxiv.org/abs/2512.15877)  
+Romeo Felice Rosato, Sophia Yi, Emanuele Berti, Paolo Pani  
+_Modeling the frequency-domain ringdown amplitude of comparable-mass mergers with greybody factors_
 
 ## 2026-01-09
 - (K.Kubota) [arXiv:2512.16347](https://arxiv.org/abs/2512.16347)  
