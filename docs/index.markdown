@@ -33,7 +33,18 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2026-02-13
+## Next: 2026-02-20
+
+## 2026-02-13
+- (D. Watarai) [arXiv:2601.18986](https://arxiv.org/abs/2601.18986)  
+Tousif Islam, Tejaswi Venumadhav, Digvijay Wadekar  
+_Progenitor of the recoiling super-massive black hole RBH-1 identified using HST/JWST imaging_
+- (Y. Manita) [arXiv:2601.11706](https://arxiv.org/abs/2601.11706)  
+Marina De Amicis, Enrico Cannizzaro  
+_Post-Minkowskian expansion of the Prompt Response in a Schwarzschild background_
+- (S. Yamamoto) [arXiv:2601.18378](https://arxiv.org/abs/2601.18378)  
+Takahiro S. Yamamoto  
+_Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run_
 
 ## 2026-02-06
 - (K. Kubota) [arXiv:2601.22015](https://arxiv.org/abs/2601.22015)  
