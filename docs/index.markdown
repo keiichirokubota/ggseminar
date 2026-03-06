@@ -33,7 +33,16 @@ title: "GG Seminar 2025"
  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/)
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
-## Next: 2026-03-06
+## Next: 2026-03-13
+
+## 2026-03-06
+- (Y. Manita) [arXiv:2508.20238](https://arxiv.org/abs/2508.20238)  
+Qassim Alnasheet, Vitor Cardoso, Francisco Duque, Rodrigo Panosso Macedo 
+_Gravitational-wave tails and memory effect for mergers in astrophysical environments_
+- (K. Kubota) \arxiv{2508.20238}
+[arXiv:2601.13411](https://arxiv.org/abs/2601.13411)  
+Hector O. Silva, Giovanni Tambalo, Kostas Glampedakis, Kent Yagi 
+_Quasinormal modes and their excitation beyond general relativity. II: isospectrality loss in gravitational waveforms_
 
 ## 2026-02-13
 - (D. Watarai) [arXiv:2601.18986](https://arxiv.org/abs/2601.18986)  
