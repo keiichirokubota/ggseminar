@@ -37,10 +37,10 @@ title: "GG Seminar 2025"
 ## Next: 2026-04-03
 
 ## 2026-03-27
-- (H. Miyazono)[arXiv:2503.20877](https://arxiv.org/abs/2503.20877)  
+- (H. Miyazono) [arXiv:2503.20877](https://arxiv.org/abs/2503.20877)  
 Léonard Lehoucq, Irina Dvorkin, Luciano Rezzolla  
 _Postmerger: a new and dominant contribution to the gravitational-wave background from binary neutron stars_
-- (Y. Manita)[arXiv:2603.20490](https://arxiv.org/abs/2603.20490)  
+- (Y. Manita) [arXiv:2603.20490](https://arxiv.org/abs/2603.20490)  
 Romeo Felice Rosato, Marina De Amicis, Paolo Pani  
 _Singular structures and causality of the Schwarzschild Green's function in the frequency domain_
 
