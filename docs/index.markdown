@@ -35,6 +35,12 @@ title: "GG Seminar 2025"
  - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html)
 
 ## Next: 2026-03-27
+- (H. Miyazono)[arXiv:2503.20877](https://arxiv.org/abs/2503.20877)  
+Léonard Lehoucq, Irina Dvorkin, Luciano Rezzolla  
+_Postmerger: a new and dominant contribution to the gravitational-wave background from binary neutron stars_
+- (Y. Manita)[arXiv:2603.20490](https://arxiv.org/abs/2603.20490)  
+Romeo Felice Rosato, Marina De Amicis, Paolo Pani  
+_Singular structures and causality of the Schwarzschild Green's function in the frequency domain_
 
 ## 2026-03-13
 - (K. Kyutoku) [arXiv:2603.04735](https://arxiv.org/abs/2603.04735)  
