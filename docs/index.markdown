@@ -56,10 +56,10 @@ _Wave-Optics Imprints of Dark Matter Subhalos on Strongly Lensed Gravitational W
 
 ## 2026-03-06
 - (Y. Manita) [arXiv:2508.20238](https://arxiv.org/abs/2508.20238)  
-Qassim Alnasheet, Vitor Cardoso, Francisco Duque, Rodrigo Panosso Macedo 
+Qassim Alnasheet, Vitor Cardoso, Francisco Duque, Rodrigo Panosso Macedo  
 _Gravitational-wave tails and memory effect for mergers in astrophysical environments_
-- (K. Kubota)　[arXiv:2601.13411](https://arxiv.org/abs/2601.13411)  
-Hector O. Silva, Giovanni Tambalo, Kostas Glampedakis, Kent Yagi 
+- (K. Kubota) [arXiv:2601.13411](https://arxiv.org/abs/2601.13411)  
+Hector O. Silva, Giovanni Tambalo, Kostas Glampedakis, Kent Yagi   
 _Quasinormal modes and their excitation beyond general relativity. II: isospectrality loss in gravitational waveforms_
 
 ## 2026-02-13
