@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "GG Seminar 2025"
+title: "GG Seminar 2026"
 ---
 
 # GG Seminar 2026
@@ -58,10 +58,7 @@ _Wave-Optics Imprints of Dark Matter Subhalos on Strongly Lensed Gravitational W
 - (Y. Manita) [arXiv:2508.20238](https://arxiv.org/abs/2508.20238)  
 Qassim Alnasheet, Vitor Cardoso, Francisco Duque, Rodrigo Panosso Macedo 
 _Gravitational-wave tails and memory effect for mergers in astrophysical environments_
-- (K. Kubota) [arXiv:2508.20238](https://arxiv.org/abs/2508.20238)  
-Qassim Alnasheet, Vitor Cardoso, Francisco Duque, Rodrigo Panosso Macedo  
-_Gravitational-wave tails and memory effect for mergers in astrophysical environments_
-[arXiv:2601.13411](https://arxiv.org/abs/2601.13411)  
+- (K. Kubota)　[arXiv:2601.13411](https://arxiv.org/abs/2601.13411)  
 Hector O. Silva, Giovanni Tambalo, Kostas Glampedakis, Kent Yagi 
 _Quasinormal modes and their excitation beyond general relativity. II: isospectrality loss in gravitational waveforms_
 
@@ -94,8 +91,8 @@ _The impact of waveform systematics and Gaussian noise on the interpretation of 
 
 ## 2026-01-16 
 - (N. Uchikata) [arXiv:2601.05734](https://arxiv.org/abs/2601.05734)  
-Yi-Fan Wang, Sizheng Ma, Neev Khera, Huan Yang  
-_A nonlinear voice from GW250114 ringdown_
+Yi-Fan Wang, Sizheng Ma, Neev Khera, Huan Yang  　
+_A nonlinear voice from GW250114 ringdown_　　
 - (K. Kubota) [arXiv:2512.07959](https://arxiv.org/abs/2512.07959)  
 Matteo Della Rocca, Laura Pezzella, Emanuele Berti, Leonardo Gualtieri, Andrea Maselli  
 _Quasinormal ringing of Kerr black holes. III. Excitation coefficients for equatorial inspirals from the innermost stable circular orbit_
