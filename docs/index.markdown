@@ -48,7 +48,7 @@ _GWTC-4.0: Tests of General Relativity. II. Parameterized Tests_
     - [arXiv:2603.19021](https://arxiv.org/abs/2603.19021)  
 The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration 
 _GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants_
-    - [LVK webinar(GWTC-4.0 Tests of General Relativity)](https://www.youtube.com/watch?v=1eb4HjyYw-8)
+    - [LVK webinar(GWTC-4.0 Tests of General Relativity)](https://youtu.be/1eb4HjyYw-8)
 
 <!-- ## 2026-03-27
 - (H. Miyazono) [arXiv:2503.20877](https://arxiv.org/abs/2503.20877)  
