@@ -35,10 +35,22 @@ title: "GG Seminar 2026"
  <!-- - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html) -->
  - Logs [2025](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2025.html) [2024](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2024.html) [2023](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2023.html) [2022](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2022.html) [2021](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2021.html) [2020](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2020.html) [2019](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2019.html)  [2018](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2018.html) [2017](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2017.html)
 
+## Next: 2026-04-10
 
-## Next: 2026-04-03
+## 2026-04-03
+- N. Uchikata
+    - [arXiv:2603.19019](https://arxiv.org/abs/2603.19019)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration  
+_GWTC-4.0: Tests of General Relativity. I. Overview and General Tests_
+    - [arXiv:2603.19020](https://arxiv.org/abs/2603.19020)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration 
+_GWTC-4.0: Tests of General Relativity. II. Parameterized Tests_
+    - [arXiv:2603.19021](https://arxiv.org/abs/2603.19021)  
+The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration 
+_GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants_
+    - [LVK webinar(GWTC-4.0 Tests of General Relativity)](https://www.youtube.com/watch?v=1eb4HjyYw-8)
 
-## 2026-03-27
+<!-- ## 2026-03-27
 - (H. Miyazono) [arXiv:2503.20877](https://arxiv.org/abs/2503.20877)  
 Léonard Lehoucq, Irina Dvorkin, Luciano Rezzolla  
 _Postmerger: a new and dominant contribution to the gravitational-wave background from binary neutron stars_
@@ -325,4 +337,4 @@ Jaime Redondo-Yuste, Vitor Cardoso
 _Superradiant amplification by rotating viscous compact objects_
 - (T.S.Yamamoto) [arXiv:2506.14179](https://arxiv.org/abs/2506.14179)  
 Xiao-Xiao Kou, Muhammed Saleem, Vuk Mandic, Colm Talbot, Eric Thrane  
-_Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge_
+_Progress toward the detection of the gravitational-wave background from stellar-mass binary black holes: a mock data challenge_ -->
