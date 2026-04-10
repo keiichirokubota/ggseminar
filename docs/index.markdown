@@ -38,7 +38,7 @@ title: "GG Seminar 2026"
 ## Next: 2026-04-17
 
 ## 2026-04-10
-- K. Kotaro
+- K. Kyutoku
     - [arXiv:2510.05913](https://arxiv.org/abs/2510.05913)  
 Bruce Allen, Arian L. von Blanckenburg, Ken D. Olum  
 _Pulsar timing array analysis in a Legendre polynomial basis_
