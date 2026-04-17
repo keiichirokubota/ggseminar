@@ -40,11 +40,11 @@ title: "GG Seminar 2026"
     - [arXiv:2604.11895](https://arxiv.org/abs/2604.11895)  
 Romeo Felice Rosato, Francesco Crescimbeni, Sophia Yi, Emanuele Berti, Paolo Pani  
 _Novel ringdown tests of general relativity with black hole greybody factors_
-- (Y. Manita) 
+- Y. Manita 
     - [arXiv:2603.04501](https://arxiv.org/abs/2603.04501)  
 Vitor Cardoso, Jaime Redondo-Yuste, Ulrich Sperhake, Furkan Tuncer  
 _Nonlinear Dynamics in General Relativity_
-- (S. Yamamoto)
+- S. Yamamoto 
     - [arXiv:2602.17343](https://arxiv.org/abs/2602.17343)  
 Jannik Mielke, Angela Borchers, Frank Ohme  
 _Uncovering subdominant multipole asymmetries in binary black-hole mergers_
