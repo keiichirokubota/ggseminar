@@ -36,6 +36,18 @@ title: "GG Seminar 2026"
  - Logs [2025](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2025.html) [2024](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2024.html) [2023](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2023.html) [2022](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2022.html) [2021](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2021.html) [2020](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2020.html) [2019](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2019.html)  [2018](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2018.html) [2017](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2017.html)
 
 ## Next: 2026-04-17
+- K. Kubota
+    - [arXiv:2604.11895](https://arxiv.org/abs/2604.11895)  
+Romeo Felice Rosato, Francesco Crescimbeni, Sophia Yi, Emanuele Berti, Paolo Pani  
+_Novel ringdown tests of general relativity with black hole greybody factors_
+- (Y. Manita) 
+    - [arXiv:2603.04501](https://arxiv.org/abs/2603.04501)  
+Vitor Cardoso, Jaime Redondo-Yuste, Ulrich Sperhake, Furkan Tuncer  
+_Nonlinear Dynamics in General Relativity_
+- (S. Yamamoto)
+    - [arXiv:2602.17343](https://arxiv.org/abs/2602.17343)  
+Jannik Mielke, Angela Borchers, Frank Ohme  
+_Uncovering subdominant multipole asymmetries in binary black-hole mergers_
 
 ## 2026-04-10
 - K. Kyutoku
