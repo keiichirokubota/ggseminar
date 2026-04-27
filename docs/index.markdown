@@ -38,7 +38,7 @@ title: "GG Seminar 2026"
 ## Next: 2026-05-01
 
 ## 2026-04-24
-- K. Kubota
+- K. Kyutoku
     - [arXiv:2604.19701](https://arxiv.org/abs/2604.19701)  
 Yacine Ali-Haïmoud  
 _A practical theorem on gravitational-wave background statistics_
