@@ -52,7 +52,7 @@ _Novel ringdown tests of general relativity with black hole greybody factors_
     - [arXiv:2603.04501](https://arxiv.org/abs/2603.04501)  
 Vitor Cardoso, Jaime Redondo-Yuste, Ulrich Sperhake, Furkan Tuncer  
 _Nonlinear Dynamics in General Relativity_
-- S. Yamamoto 
+- T. S. Yamamoto 
     - [arXiv:2602.17343](https://arxiv.org/abs/2602.17343)  
 Jannik Mielke, Angela Borchers, Frank Ohme  
 _Uncovering subdominant multipole asymmetries in binary black-hole mergers_
@@ -62,7 +62,7 @@ _Uncovering subdominant multipole asymmetries in binary black-hole mergers_
     - [arXiv:2510.05913](https://arxiv.org/abs/2510.05913)  
 Bruce Allen, Arian L. von Blanckenburg, Ken D. Olum  
 _Pulsar timing array analysis in a Legendre polynomial basis_
-- S. Yamamoto
+- T. S. Yamamoto
     - [arXiv:2511.03604](https://arxiv.org/abs/2511.03604)  
 Riccardo Buscicchio, Federico Pozzoli, Daniele Chirico, Alberto Sesana  
 _The first year of LISA Galactic foreground_
@@ -111,8 +111,8 @@ _Progenitor of the recoiling super-massive black hole RBH-1 identified using HST
 - (Y. Manita) [arXiv:2601.11706](https://arxiv.org/abs/2601.11706)  
 Marina De Amicis, Enrico Cannizzaro  
 _Post-Minkowskian expansion of the Prompt Response in a Schwarzschild background_
-- (S. Yamamoto) [arXiv:2601.18378](https://arxiv.org/abs/2601.18378)  
-Takahiro S. Yamamoto  
+- (T. S. Yamamoto) [arXiv:2601.18378](https://arxiv.org/abs/2601.18378)  
+Takahiro T. S. Yamamoto  
 _Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run_
 
 ## 2026-02-06
@@ -149,10 +149,10 @@ _GWTC-4.0: Searches for Gravitational-Wave Lensing Signatures_
 - (K.Kyutoku) [arXiv:2512.08818](https://arxiv.org/abs/2512.08818)  
 A. J. Amsellem, A. Palmese, K. Douglass, C. Howlett, Juliana S. M. Karp, I. Magaña Hernandez, J. Moustakas, R. H. Wechsler, J. Aguilar, S. Ahlen, S. Benzvi, D. Bianchi, D. Brooks, A. Carr, T. Claybaugh, A. Cuceu, Tamara M. Davis, A. de la Macorra, Arjun Dey, Biprateep Dey, P. Doel, A. Font-Ribera, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, G. Gutierrez, K. Honscheid, M. Ishak, R. Joyce, R. Kehoe, T. Kisner, A. Kremin, O. Lahav, A. Lambert, M. Landriau, L. Le Guillou, M. Manera, V. Manwadkar, A. Meisner, R. Miquel, A. D. Myers, S. Nadathur, G. Niz, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, F. Prada, I. Pérez-Ràfols, A. Raichoor, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, J. Silber, D. Sprayberry, G. Tarlé, R. Zhou, the DESI Collaboration  
 _Probing the environment around GW170817 with DESI: insights on galaxy group peculiar velocities for standard siren measurements_
-- (S. Yamamoto) [arXiv:2512.17550](https://arxiv.org/abs/2512.17550)  
+- (T. S. Yamamoto) [arXiv:2512.17550](https://arxiv.org/abs/2512.17550)  
 Qian Hu, Harsh Narola, Jef Heynen, Mick Wright, John Veitch, Justin Janquart, Chris Van Den Broeck  
 _GW231123: Overlapping Gravitational Wave Signals?_
-- (S. Yamamoto) [arXiv:2512.19118](https://arxiv.org/abs/2512.19118)  
+- (T. S. Yamamoto) [arXiv:2512.19118](https://arxiv.org/abs/2512.19118)  
 Xikai Shan, Huan Yang, Shude Mao  
 _GW231123: A Case for Binary Microlensing in a Strong Lensing Field_
 
@@ -174,12 +174,12 @@ _Investigating the Impact of Higher-Order Phase Transitions in Binary Neutron-St
 - (N. Uchikata) [arXiv:2510.22290](https://arxiv.org/abs/2510.22290)  
 Thibeau Wouters, Anna Puecher, Peter T. H. Pang, Tim Dietrich  
 _Analyzing GW231109_235456 and understanding its potential implications for population studies, nuclear physics, and multi-messenger astronomy_
-- (S. Yamamoto) [arXiv:2512.02360](https://arxiv.org/abs/2512.02360)  
+- (T. S. Yamamoto) [arXiv:2512.02360](https://arxiv.org/abs/2512.02360)  
 Qian-Qi Ma, Jiachang Zhang, Wei-Min Gu, Zhiyuan Li, Shan-Shan Weng, Tong Bao  
 _The first extragalactic ultra-compact X-ray binary : a candidate black hole-white dwarf system_
 
 ## 2025-11-28
-- (S. Yamamoto) [arXiv:2506.14764](https://arxiv.org/abs/2506.14764)  
+- (T. S. Yamamoto) [arXiv:2506.14764](https://arxiv.org/abs/2506.14764)  
 Hugo Einsle, Marie-Anne Bizouard, Tania Regimbau, Mairi Sakellariadou  
 _Gravitational-wave background detection using machine learning_
 - (D. Watarai) [arXiv:2509.08875](https://arxiv.org/abs/2509.08875)  
@@ -207,8 +207,8 @@ _Black holes black out: total absorption in time-dependent scattering_
 - (T. Narikawa) [arXiv:2503.17872](https://arxiv.org/abs/2503.17872)  
 Parthapratim Mahapatra, Debatri Chattopadhyay, Anuradha Gupta, Fabio Antonini, Marc Favata, B. S. Sathyaprakash, K. G. Arun  
 _Possible binary neutron star merger history of the primary of GW230529_
-- (S. Yamamoto) [arXiv:2506.07507](https://arxiv.org/abs/2506.07507)  
-Katsuya T. Abe, Shun Arai, Ryoto Inui, Takahiro S. Yamamoto, Hirotaka Yarimoto, Shuichiro Yokoyama  
+- (T. S. Yamamoto) [arXiv:2506.07507](https://arxiv.org/abs/2506.07507)  
+Katsuya T. Abe, Shun Arai, Ryoto Inui, Takahiro T. S. Yamamoto, Hirotaka Yarimoto, Shuichiro Yokoyama  
 _Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos_
 
 ## 2025-11-07
@@ -220,7 +220,7 @@ Lodovico Capuano, Massimo Vaglio, Rohit S. Chandramouli, Chantal L Pitte, Adrien
 _Systematic bias in LISA ringdown analysis due to waveform inaccuracy_
 
 ## 2025-10-31
-- (S. Yamamoto) [A. G. Abac et al 2025 ApJL 993 L21](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54)  
+- (T. S. Yamamoto) [A. G. Abac et al 2025 ApJL 993 L21](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54)  
 The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration   
 _GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-spin Black Hole Coalescences_  
 - (Y. Manita) [arXiv:2505.08877](https://arxiv.org/abs/2505.08877)  
