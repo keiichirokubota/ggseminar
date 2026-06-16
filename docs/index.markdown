@@ -37,6 +37,20 @@ title: "GG Seminar 2026"
 
 
 ## Next: 2026-06-12
+- H. Hisamatsu
+    - [arXiv:2605.17983](https://arxiv.org/abs/2605.17983)  
+Hinano Hisamatsu, Koutarou Kyutoku  
+_Higher-order statistics of the stochastic gravitational wave background from supermassive black hole binaries_
+- T. S. Yamamoto 
+    - [arXiv:2605.11703](https://arxiv.org/abs/2605.11703)  
+ The LIGO Scientific Collaboration,  the Virgo Collaboration, and the KAGRA Collaboration  
+ _GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors_
+    - [arXiv:2603.25808](https://arxiv.org/abs/2603.25808)  
+ The LIGO Scientific Collaboration,  the Virgo Collaboration, and the KAGRA Collaboration  
+_Searches for Continuous Gravitational Waves from Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing run_
+    - [arXiv:2512.15672](https://arxiv.org/abs/2512.15672)  
+Jing Ming, Maria Alessandra Papa, Heinz-Bernd Eggenstein, Bernd Machenschalk, J. Martins, B. Steltner, B. McGloughlin, V. Dergachev, R. Prix, M. Bensch  
+_Observational constraints on the spin/anisotropy of the CCOs of Cassiopeia A, Vela Jr. and G347.3-0.5 and a single surviving continuous gravitational wave candidate_
 
 ## 2026-06-05
 - K. Kubota
