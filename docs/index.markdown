@@ -36,6 +36,17 @@ title: "GG Seminar 2026"
  - Logs [2025](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2025.html) [2024](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2024.html) [2023](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2023.html) [2022](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2022.html) [2021](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2021.html) [2020](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2020.html) [2019](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2019.html)  [2018](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2018.html) [2017](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2017.html)
 
 ## Next: 2026-07-10
+- N. Uchikata
+    - [arXiv:2605.27223](https://arxiv.org/abs/2605.27223)  
+The LIGO Scientific Collaboration,  the Virgo Collaboration,  the KAGRA Collaboration  
+_GWTC-5.0: An Introduction to Version 5.0 of the Gravitational-Wave Transient Catalog_
+    - [arXiv:2605.27224](https://arxiv.org/abs/2605.27224)  
+The LIGO Scientific Collaboration,  the Virgo Collaboration,  the KAGRA Collaboration  
+_GWTC-5.0: Methods for Identifying and Characterizing Gravitational-wave Transients_
+- K. Kyutoku
+    - [arXiv:2607.05486](https://arxiv.org/abs/2607.05486)  
+Koutarou Kyutoku  
+_Finite signal-to-noise ratio bias in parameter estimation for damped oscillations: cautionary remark about catalog-level black-hole spectroscopy_
 
 ## 2026-07-03
 - K. Kyutoku
