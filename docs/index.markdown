@@ -35,7 +35,16 @@ title: "GG Seminar 2026"
  <!-- - Logs [2025](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2025_pub.html) [2024](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2024_pub.html) [2023](https://www2.yukawa.kyoto-u.ac.jp/~takafumi.kakehi/GG2023_pub.html) [2022](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2022_pub.html) [2021](https://www-tap.scphys.kyoto-u.ac.jp/~yamamoto/GG2021_pub.html) [2020](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2020/GG2020_pub.html) [2019](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2019/GG2019_pub.html)  [2018](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2018/GG2018_pub.html) [2017](http://www.icrr.u-tokyo.ac.jp/~narikawa/work/GG_seminar/GG2017/GG2017_pub.html) -->
  - Logs [2025](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2025.html) [2024](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2024.html) [2023](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2023.html) [2022](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2022.html) [2021](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2021.html) [2020](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2020.html) [2019](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2019.html)  [2018](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2018.html) [2017](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2017.html)
 
-## Next: 2026-07-17
+## Next: 2026-07-24
+
+## 2026-07-17
+- K. Kubota
+    - [arXiv:2607.06677](https://arxiv.org/abs/2607.06677)  
+Sizheng Ma, Hai-Yang Wang  
+_Foundations of Direct Waves in Schwarzschild Ringdown_
+    - [arXiv:2606.21519](https://arxiv.org/abs/2606.21519)  
+Shin'ichiro Ando  
+_Wave-optics imprints of dark matter subhalos on strongly lensed gravitational waves. II. Saddle images and detectability_
 
 ## 2026-07-10
 - N. Uchikata
