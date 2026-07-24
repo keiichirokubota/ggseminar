@@ -36,6 +36,18 @@ title: "GG Seminar 2026"
  - Logs [2025](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2025.html) [2024](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2024.html) [2023](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2023.html) [2022](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2022.html) [2021](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2021.html) [2020](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2020.html) [2019](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2019.html)  [2018](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2018.html) [2017](https://htmlpreview.github.io/?https://github.com/keiichirokubota/ggseminar/blob/main/logs/GG2017.html)
 
 ## Next: 2026-07-24
+- T. S. Yamamoto 
+    - [arXiv:2602.12115](https://arxiv.org/abs/2602.12115)  
+Keisi Kacanja, Kanchan Soni, Aleyna Akyüz, Alexander H. Nitz  
+_Search for Sub-Solar Mass Binaries in the First Part of LIGO's Fourth Observing Run_
+- D. Watarai
+    - [arXiv:2607.02380](https://arxiv.org/abs/2607.02380)  
+Anuj Kankani, Sean T. McWilliams  
+_The Direct Wave is Not a Meaningful Test of Horizon Properties_
+- K. Kyutoku
+    - [arXiv:2604.05980](https://arxiv.org/abs/2604.05980)  
+Tristan Pitre, Berend Schneider, Eric Poisson  
+_Self-gravitating thin shells are dynamically unstable on all angular scales_
 
 ## 2026-07-17
 - K. Kubota
